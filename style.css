@@ -1,0 +1,19 @@
+img{
+    height: 150px;
+    border: 2px solid black;
+    margin: auto;
+}
+.description{
+    background-color: yellow;
+}
+#cook-time{
+    color: red;
+    padding: 20px;
+}
+.ingredients{
+    list-style-type: square;
+}
+.preparations .time{
+    color: grey;
+}
+
